@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+
+    <!-- Hotel 1 - given example -->
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>11</Number>
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <!-- Hotel 2 -->
+    <Hotel Rating="3.8">
+        <Name>Holiday Inn Express Suites</Name>
+        <Phone>480-784-2233</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>670</Number>
+            <Street>N Scottsdale Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85288</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!--HOTEL 3-->
+    <Hotel Rating="3.7">
+        <Name>Graduate by Hilton Tempe</Name>
+        <Phone>480-967-9431</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>225</Number>
+            <Street>E Apache Blvd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!--HOTEL 4-->
+    <Hotel Rating="4.3">
+        <Name>Hyatt Place</Name>
+        <Phone>480-207-1578</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>601</Number>
+            <Street>E 6th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!--HOTEL 5-->
+    <Hotel Rating="4.2">
+        <Name>Moxy</Name>
+        <Phone>480-968-3451</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>1333</Number>
+            <Street>S Rural Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!--HOTEL 6-->
+    <Hotel Rating="4.4">
+        <Name>Tempe Mission Palms</Name>
+        <Phone>480-894-1400</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>60</Number>
+            <Street>E 5th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <!--HOTEL 7-->
+    <Hotel Rating="4.0">
+        <Name>Aloft Tempe</Name>
+        <Phone>480-621-3300</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>951</Number>
+            <Street>E Playa Del Norte Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85288</Zip>
+        </Address>
+    </Hotel>
+
+
+    <!--HOTEL 8-->
+    <Hotel Rating="4.4">
+        <Name>University Inn Tempe/ASU</Name>
+        <Phone>480-966-7221</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>902</Number>
+            <Street>S Mill Ave.</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <!--HOTEL 9-->
+    <Hotel Rating="4.5">
+        <Name>Residence Inn by Marriott Tempe</Name>
+        <Phone>480-967-2300</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>510</Number>
+            <Street>S Forest Ave</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <!--HOTEL 10-->
+    <Hotel Rating="4.0">
+        <Name>The Azure Hotel</Name>
+        <Phone>480-621-6375</Phone>
+        <Address NearestAirport="Sky Harbor">
+            <Number>651</Number>
+            <Street>E Main St.</Street>
+            <City>Mesa</City>
+            <State>AZ</State>
+            <Zip>85283</Zip>
+        </Address>
+    </Hotel>
+
+</Hotels>
