@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Xml.Schema;
 using System.Xml;
+using System.Text;
 using Newtonsoft.Json;
 using System.IO;
 using System.Net;
