@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jR61r0ZHtN4=",
+  "success": true,
+  "projectFilePath": "E:\\CSE445\\Assignment4\\cse445_a4_1234246223\\project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\zakia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.3\\microsoft.netframework.referenceassemblies.net47.1.0.3.nupkg.sha512",
+    "C:\\Users\\zakia\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.csproj.AssemblyReference.cache
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.AssemblyInfoInputs.cache
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.AssemblyInfo.cs
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.csproj.CoreCompileInputs.cache
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.sourcelink.json
