@@ -81,7 +81,7 @@ namespace ConsoleApp1
                 {
                     string xmlContent = client.DownloadString(xmlUrl);
                     using (StringReader sr = new StringReader(xmlContent))
-                    using (XmlReader reader = XmlReader.Create(xmlStringReader, settings))
+                    using (XmlReader reader = XmlReader.Create(sr, settings))
                     {
                         while (reader.Read()) { }
                     }
