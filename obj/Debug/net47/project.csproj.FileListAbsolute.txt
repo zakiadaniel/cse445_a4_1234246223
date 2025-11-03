@@ -4,3 +4,11 @@ E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.AssemblyInfoI
 E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.AssemblyInfo.cs
 E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.csproj.CoreCompileInputs.cache
 E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.sourcelink.json
+E:\CSE445\Assignment4\cse445_a4_1234246223\bin\Debug\net47\project.exe.config
+E:\CSE445\Assignment4\cse445_a4_1234246223\bin\Debug\net47\project.exe
+E:\CSE445\Assignment4\cse445_a4_1234246223\bin\Debug\net47\project.pdb
+E:\CSE445\Assignment4\cse445_a4_1234246223\bin\Debug\net47\Newtonsoft.Json.dll
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.csproj.Up2Date
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.exe
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.pdb
+E:\CSE445\Assignment4\cse445_a4_1234246223\obj\Debug\net47\project.exe.config
